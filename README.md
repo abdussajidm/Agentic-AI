@@ -43,12 +43,13 @@ This chatbot project was developed during my 4-week virtual internship at **IBM 
 
 ## 📬 Contact Information
 
-**Mohammed Amaan Ali**  
-💻 [GitHub](https://github.com/mohammedamaanali)
+**Abdus Sajid**  
+💻 [GitHub](https://github.com/abdussajidm)
 
 > For inquiries, collaborations, or feedback, feel free to connect!
 
 ---
+
 
 
 
